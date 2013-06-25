@@ -9,5 +9,6 @@
 <body>
 	<h1>Maven test project</h1>
 	<hr />
+	Added to github
 </body>
 </html>
