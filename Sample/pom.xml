@@ -4,4 +4,7 @@
   <artifactId>Sample</artifactId>
   <version>${env.releaseVersion}-SNAPSHOT</version>
   <packaging>war</packaging>
+  <build>
+  	<finalName>${artifactId}-${version}</finalName>
+  </build>
 </project>
