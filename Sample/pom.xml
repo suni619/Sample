@@ -17,9 +17,9 @@
     </plugins>
   </build>
   <scm>
-  	<connection>scm:git@github.com:suni619/Sample.git</connection>
-    <developerConnection>scm:git@github.com:suni619/Sample.git</developerConnection>
+  	<connection>scm:https://github.com/suni619/Sample</connection>
+    <developerConnection>scm:https://github.com/suni619/Sample</developerConnection>
     <tag>HEAD</tag>
-    <url>git@github.com:suni619/Sample.git</url>
+    <url>https://github.com/suni619/Sample</url>
   </scm>
 </project>
