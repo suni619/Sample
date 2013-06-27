@@ -34,8 +34,5 @@
   </build>
   <scm>
   	<connection>scm:git@github.com:suni619/Sample.git</connection>
-    <developerConnection>scm:git@github.com:suni619/Sample.git</developerConnection>
-    <tag>HEAD</tag>
-    <url>https://github.com/suni619/Sample.git</url>
   </scm>
 </project>
