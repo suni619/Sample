@@ -33,6 +33,9 @@
     </plugins>
   </build>
   <scm>
-  	<connection>scm:git@github.com:suni619/Sample.git</connection>
+  	<connection><![CDATA[scm:git@github.com:suni619/Sample.git]]></connection>
+    <developerConnection><![CDATA[scm:git@github.com:suni619/Sample.git]]></developerConnection>
+    <tag>HEAD</tag>
+    <url><![CDATA[https://github.com/suni619/Sample.git]]></url>
   </scm>
 </project>
