@@ -13,7 +13,7 @@
         <configuration>
           <tagNameFormat>v@{project.version}</tagNameFormat>
           	<checkModificationExcludes>
-      			<checkModificationExclude>pom.properties</checkModificationExclude>
+      			<checkModificationExclude>target/maven-archiver/pom.properties</checkModificationExclude>
     		</checkModificationExcludes>
         </configuration>
       </plugin>
