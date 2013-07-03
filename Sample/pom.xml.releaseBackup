@@ -2,7 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mindtree</groupId>
   <artifactId>Sample</artifactId>
+<<<<<<< HEAD
   <version>3.4.1-SNAPSHOT</version>
+=======
+  <version>3.5.0-SNAPSHOT</version>
+>>>>>>> 693159e6e6126023a52d360bdb33b1a534dfd7f6
   <packaging>war</packaging>
   <build>
   	 <plugins>
