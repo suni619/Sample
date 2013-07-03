@@ -12,6 +12,9 @@
         <version>2.4.1</version>
         <configuration>
           <tagNameFormat>v@{project.version}</tagNameFormat>
+          	<checkModificationExcludes>
+      			<checkModificationExclude>pom.properties</checkModificationExclude>
+    		</checkModificationExcludes>
         </configuration>
       </plugin>
        <plugin>
